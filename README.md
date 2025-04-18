@@ -40,7 +40,8 @@ CSUEB-RTR Routing Table...
 
 
 CSUEB-BDR-RTR DHCP pool Example...
-![image](https://github.com/user-attachments/assets/e27e2d6f-1269-45bb-b831-59a8c3655f6c)
+
+...................................![image](https://github.com/user-attachments/assets/e27e2d6f-1269-45bb-b831-59a8c3655f6c)
 
 
 
