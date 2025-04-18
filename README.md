@@ -30,5 +30,6 @@ Outcomes:
   Applied subnetting, routing logic, and gateway configuration to enforce controlled access and isolation.
 
   Validated the design by testing end-to-end connectivity between departments and ensuring isolation policies were enforced.
+![image](https://github.com/user-attachments/assets/9eee1827-4735-48d1-ab1d-ea5a272c823f)
 
 
