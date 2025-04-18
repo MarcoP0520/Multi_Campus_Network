@@ -33,15 +33,9 @@ Outcomes:
   
 ...................................![image](https://github.com/user-attachments/assets/a51d3f49-c17c-4c8f-930c-6d671d806f8c)
 
-🖥️ Device-to-Device Communication Table
 
-Host	CSUEB_PC1	CSUEB_PC2	SJSU_PC1	SJSU_PC2	IT_PC1	IT_PC2
-CSUEB_PC1	—	✅	❌	❌	✅	✅
-CSUEB_PC2		—	❌	❌	✅	✅
-SJSU_PC1			—	✅	✅	✅
-SJSU_PC2				—	✅	✅
-IT_PC1					—	✅
-IT_PC2						—
+...................................![image](https://github.com/user-attachments/assets/c0964e39-6332-478e-95cd-54dfac90db59)
+
 
 
 
