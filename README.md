@@ -34,12 +34,6 @@ Outcomes:
 ...................................![image](https://github.com/user-attachments/assets/a51d3f49-c17c-4c8f-930c-6d671d806f8c)
 
 
-...................................![image](https://github.com/user-attachments/assets/c0964e39-6332-478e-95cd-54dfac90db59)
-
-
-
-
-
 CSUEB-RTR Routing Table...
 
 ..................................![image](https://github.com/user-attachments/assets/6f907d6a-db82-48dd-891a-70270472ba78)
@@ -48,6 +42,10 @@ CSUEB-RTR Routing Table...
 CSUEB-BDR-RTR DHCP pool Example...
 
 ...................................![image](https://github.com/user-attachments/assets/e27e2d6f-1269-45bb-b831-59a8c3655f6c)
+
+
+
+![image](https://github.com/user-attachments/assets/c0964e39-6332-478e-95cd-54dfac90db59)
 
 
 
