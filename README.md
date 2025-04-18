@@ -1,10 +1,12 @@
                                                 Multi-Campus Network Simulation – Cisco Packet Tracer
+
 Tools: Cisco Packet Tracer, Static Routing, DHCP, Subnetting
 Tech: Layer 3 Routing, Layer 2 Switching, DHCP IP Addressing, Gateway Configuration
 
 Designed and implemented a multi-campus network architecture simulating three distinct networks: CSUEB, SJSU, and an IT Department hub. Each campus operates independently with internal DHCP services and does not allow direct communication between CSUEB and SJSU, ensuring logical separation and security.
 
 Key Features:
+
   Three network zones: CSUEB, SJSU, and IT Department.
 
   DHCP pools configured per router to dynamically assign IP addresses within each subnet.
