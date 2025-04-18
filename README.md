@@ -1,7 +1,5 @@
                                                 Multi-Campus Network Simulation – Cisco Packet Tracer
-
-   ![image](https://github.com/user-attachments/assets/f1354871-ca13-4656-8e11-fd2b9247c50f)
-
+                                                
 Tools: Cisco Packet Tracer, Static Routing, DHCP, Subnetting
 Tech: Layer 3 Routing, Layer 2 Switching, DHCP IP Addressing, Gateway Configuration
 
@@ -32,6 +30,18 @@ Outcomes:
   Applied subnetting, routing logic, and gateway configuration to enforce controlled access and isolation.
 
   Validated the design by testing end-to-end connectivity between departments and ensuring isolation policies were enforced.
+
+![image](https://github.com/user-attachments/assets/a51d3f49-c17c-4c8f-930c-6d671d806f8c)
+
+
+CSUEB-RTR Routing Table...
+![image](https://github.com/user-attachments/assets/6f907d6a-db82-48dd-891a-70270472ba78)
+
+
+CSUEB-BDR-RTR DHCP pool Example...
+![image](https://github.com/user-attachments/assets/e27e2d6f-1269-45bb-b831-59a8c3655f6c)
+
+
 
 
 
