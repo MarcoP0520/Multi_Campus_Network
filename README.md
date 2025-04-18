@@ -22,6 +22,7 @@ Key Features:
   Used Class A and Private IP address ranges across all segments with realistic hierarchical topology and proper gateway routing.
 
 Outcomes:
+
   Demonstrated understanding of inter-network communication, static routing, and logical segmentation.
 
   Applied subnetting, routing logic, and gateway configuration to enforce controlled access and isolation.
