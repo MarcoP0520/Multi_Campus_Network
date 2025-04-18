@@ -31,11 +31,12 @@ Outcomes:
 
   Validated the design by testing end-to-end connectivity between departments and ensuring isolation policies were enforced.
   
-...................................![image](https://github.com/user-attachments/assets/a51d3f49-c17c-4c8f-930c-6d671d806f8c)........................................
+...................................![image](https://github.com/user-attachments/assets/a51d3f49-c17c-4c8f-930c-6d671d806f8c)
 
 
 CSUEB-RTR Routing Table...
-![image](https://github.com/user-attachments/assets/6f907d6a-db82-48dd-891a-70270472ba78)
+
+..................................![image](https://github.com/user-attachments/assets/6f907d6a-db82-48dd-891a-70270472ba78)
 
 
 CSUEB-BDR-RTR DHCP pool Example...
