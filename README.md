@@ -1,6 +1,6 @@
                                                 Multi-Campus Network Simulation – Cisco Packet Tracer
 
-                        ![image](https://github.com/user-attachments/assets/f1354871-ca13-4656-8e11-fd2b9247c50f)
+   ![image](https://github.com/user-attachments/assets/f1354871-ca13-4656-8e11-fd2b9247c50f)
 
 Tools: Cisco Packet Tracer, Static Routing, DHCP, Subnetting
 Tech: Layer 3 Routing, Layer 2 Switching, DHCP IP Addressing, Gateway Configuration
